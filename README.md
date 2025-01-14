@@ -24,5 +24,5 @@ Submissions will have deadlines, failed GitHub Actions would result in point ded
 Please reach out to your respective TA if you need any help in regards with submission/ GitHub
 
 Author:
-- Sreeram Charagundla (charagundla.s@northeastern.edu)
-- Anurag Nandre (nandre.a@northeastern.edu)
+- Preyash Mehta (mehta.prey@northeastern.edu)
+- Vamsi Naradasu (naradasu.v@northeastern.edu)
